@@ -1,0 +1,6 @@
+C:\Users\cog04\TIY\Csharppractice\Csharppractice\bin\Debug\Csharppractice.exe.config
+C:\Users\cog04\TIY\Csharppractice\Csharppractice\bin\Debug\Csharppractice.exe
+C:\Users\cog04\TIY\Csharppractice\Csharppractice\bin\Debug\Csharppractice.pdb
+C:\Users\cog04\TIY\Csharppractice\Csharppractice\obj\Debug\Csharppractice.csprojResolveAssemblyReference.cache
+C:\Users\cog04\TIY\Csharppractice\Csharppractice\obj\Debug\Csharppractice.exe
+C:\Users\cog04\TIY\Csharppractice\Csharppractice\obj\Debug\Csharppractice.pdb
